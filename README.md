@@ -1,2 +1,0 @@
-# Abdo
-Fıles
